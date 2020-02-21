@@ -11,6 +11,9 @@ repository and various commands using a web project.
 
 ## Purpose
 
+as stated above, the main purpose is to provide simple
+examples for git training demos.
+
 ## Deployment
 
 Sample website with plenty of files for demos

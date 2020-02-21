@@ -19,3 +19,9 @@ examples for git training demos.
 Sample website with plenty of files for demos
 
 ## How to contribute
+
+No need to spend money. we are rich!
+
+## important notices
+
+At the momemnt nothing important.

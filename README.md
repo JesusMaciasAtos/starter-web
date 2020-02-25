@@ -25,3 +25,7 @@ No need to spend money. we are rich!
 ## important notices
 
 At the momemnt nothing important.
+
+### Copyright
+
+Git Training JGMR
